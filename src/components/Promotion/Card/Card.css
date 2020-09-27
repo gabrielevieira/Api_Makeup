@@ -1,0 +1,16 @@
+.promotion-card {
+  font-family: "Source Code Pro", monospace;
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+.promotion-card__image {
+  width: 300px;
+  margin-left: 30px;
+}
+
+.promotion-card__info {
+  padding-right: 50px;
+  padding-left: 50px;
+}
